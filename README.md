@@ -2,7 +2,7 @@
 
 A smart and friendly AI-powered chatbot built using **React** (frontend), **Node.js + Express** (backend), and **OpenRouter API** (powered by LLMs like Mistral).
 
-> ⚡ Ask anything, and the assistant will reply in a conversational format. 
+⚡ Ask anything, and the assistant will reply in a conversational format. 
 
 ---
 
