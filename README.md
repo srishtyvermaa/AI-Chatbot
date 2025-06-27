@@ -1,4 +1,4 @@
-# AI-Powered Chatbot Using React and Node.js
+# AI-Powered Chatbot
 
 An end-to-end conversational AI solution built with modern web technologies, designed to offer real-time, intelligent interactions. The system integrates a React frontend, a Node.js + Express backend, and OpenRouter API (powered by large language models like Mistral) to deliver context-aware responses and a responsive user experience.
 
