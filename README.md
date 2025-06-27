@@ -34,6 +34,25 @@ This chatbot leverages a lightweight full-stack architecture to handle dynamic c
 
 ---
 
+## Use Cases
+
+- Customer service bots for web applications  
+- AI assistants for educational platforms  
+- Smart FAQ and helpdesk tools  
+- Chat-driven feedback and support systems
+
+---
+
+## Future Enhancements
+
+- User authentication and session management  
+- Persistent chat history with database integration  
+- Support for multiple AI model endpoints  
+- Voice input and output capabilities  
+- Admin dashboard for monitoring and analytics
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -70,25 +89,6 @@ Edit
 cd client
 npm install
 npm start
-Use Cases
-Customer service bots for web applications
-
-AI assistants for educational platforms
-
-Smart FAQ and helpdesk tools
-
-Chat-driven feedback and support systems
-
-Future Enhancements
-User authentication and session management
-
-Persistent chat history with database integration
-
-Support for multiple AI model endpoints
-
-Voice input and output capabilities
-
-Admin dashboard for monitoring and analytics
-
-License
-This project is licensed under the MIT License.
+```
+## License
+- This project is licensed under the MIT License.
