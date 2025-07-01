@@ -33,7 +33,7 @@ const Chat = () => {
         },
       ]);
     } finally {
-      setIsLoading(false); // ✅ always stop the loading animation
+      setIsLoading(false);
     }
   };
 
